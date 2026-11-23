@@ -45,7 +45,7 @@ Beim ersten Start einmalig auf **Mit Spotify anmelden** klicken. Danach bleibt d
 ## Spielablauf
 
 1. **Start**: Spielt ein zufälliges Lied aus `songs.json` ab (jedes Lied einmal pro Durchlauf). Der Button wechselt zu **Stopp**.
-2. **Stopp**: Das Lied läuft weiter. Es erscheinen **Titel**, **Artist**, **Album** und **Jahr** sowie der Button **Nächstes Lied**.
+2. **Stopp**: Das Lied läuft weiter. Es erscheinen **Titel**, **Artist**, **Album**, **Jahr** und **Genre** sowie der Button **Nächstes Lied**.
 3. **Nächstes Lied**: Blendet die Auflösung aus und startet sofort das nächste Zufallslied.
 
 ## Format der `songs.json` (für das Befüllungs-Skript)
@@ -59,7 +59,8 @@ Die Datei `songs.json` enthält ein JSON-Array mit Objekten in folgendem Format:
     "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
     "album": "Whenever You Need Somebody",
-    "year": 1987
+    "year": 1987,
+    "genre": "Dance-Pop"
   }
 ]
 ```

@@ -41,6 +41,7 @@ const els = {
   songArtist: document.getElementById("song-artist"),
   songAlbum: document.getElementById("song-album"),
   songYear: document.getElementById("song-year"),
+  songGenre: document.getElementById("song-genre"),
 
   statusBar: document.getElementById("status-bar"),
   statusText: document.getElementById("status-text"),
@@ -118,7 +119,8 @@ async function loadSongs() {
       title: entry.title ?? "Unbekannter Titel",
       artist: entry.artist ?? "Unbekannter Interpret",
       album: entry.album ?? "Unbekanntes Album",
-      year: entry.year ?? "—"
+      year: entry.year ?? "—",
+      genre: entry.genre ?? "—"
     }))
     .filter((entry) => Boolean(entry.spotifyUri));
 
@@ -229,6 +231,7 @@ function renderGameState() {
       els.songArtist.textContent = currentSong.artist;
       els.songAlbum.textContent = currentSong.album;
       els.songYear.textContent = String(currentSong.year);
+      els.songGenre.textContent = currentSong.genre;
     }
     els.revealCard.classList.remove("hidden");
     btn.textContent = "Nächstes Lied";

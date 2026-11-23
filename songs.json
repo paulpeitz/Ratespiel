@@ -4,839 +4,959 @@
     "title": "Bohemian Rhapsody",
     "artist": "Queen",
     "album": "A Night at the Opera",
-    "year": 1975
+    "year": 1975,
+    "genre": "Rock"
   },
   {
     "spotifyId": "5ChkMS8OtdzJeqyybCc9R5",
     "title": "Billie Jean",
     "artist": "Michael Jackson",
     "album": "Thriller",
-    "year": 1982
+    "year": 1982,
+    "genre": "Pop"
   },
   {
     "spotifyId": "4CeeEOM32jQcH3eN9Q2dGj",
     "title": "Smells Like Teen Spirit",
     "artist": "Nirvana",
     "album": "Nevermind",
-    "year": 1991
+    "year": 1991,
+    "genre": "Grunge"
   },
   {
     "spotifyId": "40riOy7x9W7GXjyGp4pjAv",
     "title": "Hotel California",
     "artist": "Eagles",
     "album": "Hotel California",
-    "year": 1976
+    "year": 1976,
+    "genre": "Rock"
   },
   {
     "spotifyId": "7pKfPomDEeI4TPT6EOYjn9",
     "title": "Imagine",
     "artist": "John Lennon",
     "album": "Imagine",
-    "year": 1971
+    "year": 1971,
+    "genre": "Soft Rock"
   },
   {
     "spotifyId": "3AhXZa8sUQht0UEdBJgpGc",
     "title": "Like a Rolling Stone",
     "artist": "Bob Dylan",
     "album": "Highway 61 Revisited",
-    "year": 1965
+    "year": 1965,
+    "genre": "Folk Rock"
   },
   {
     "spotifyId": "7s25THrKz86DM225dOYwnr",
     "title": "Respect",
     "artist": "Aretha Franklin",
     "album": "I Never Loved a Man the Way I Love You",
-    "year": 1967
+    "year": 1967,
+    "genre": "Soul"
   },
   {
     "spotifyId": "0eY0YgyLAZ4gtM57wwYN7H",
     "title": "Hey Jude",
     "artist": "The Beatles",
     "album": "Past Masters",
-    "year": 1968
+    "year": 1968,
+    "genre": "Pop Rock"
   },
   {
     "spotifyId": "6dGnYIeXmHdcikdzNNDMm2",
     "title": "Here Comes the Sun",
     "artist": "The Beatles",
     "album": "Abbey Road",
-    "year": 1969
+    "year": 1969,
+    "genre": "Folk Rock"
   },
   {
     "spotifyId": "1e0hllQ23AG0QGFgezgLOq",
     "title": "Yesterday",
     "artist": "The Beatles",
     "album": "Help!",
-    "year": 1965
+    "year": 1965,
+    "genre": "Pop"
   },
   {
     "spotifyId": "5CQ30WqJwcep0pYcV4AMNc",
     "title": "Stairway to Heaven",
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin IV",
-    "year": 1971
+    "year": 1971,
+    "genre": "Hard Rock"
   },
   {
     "spotifyId": "2PzU4IB8Dr6mxV3lHuaG34",
     "title": "(I Can't Get No) Satisfaction",
     "artist": "The Rolling Stones",
     "album": "Out of Our Heads",
-    "year": 1965
+    "year": 1965,
+    "genre": "Rock"
   },
   {
     "spotifyId": "63T7DJ1AFDD6Bn8VzG6JE8",
     "title": "Paint It, Black",
     "artist": "The Rolling Stones",
     "album": "Aftermath",
-    "year": 1966
+    "year": 1966,
+    "genre": "Psychedelic Rock"
   },
   {
     "spotifyId": "7av4raprzW2bWdjyAaH3hz",
     "title": "What's Going On",
     "artist": "Marvin Gaye",
     "album": "What's Going On",
-    "year": 1971
+    "year": 1971,
+    "genre": "Soul"
   },
   {
     "spotifyId": "54X78diSLoUDI3joC2bjMz",
     "title": "Purple Rain",
     "artist": "Prince",
     "album": "Purple Rain",
-    "year": 1984
+    "year": 1984,
+    "genre": "Pop Rock"
   },
   {
     "spotifyId": "0GjEhVFGZW8afUYGChu3Rr",
     "title": "Dancing Queen",
     "artist": "ABBA",
     "album": "Arrival",
-    "year": 1976
+    "year": 1976,
+    "genre": "Disco"
   },
   {
     "spotifyId": "7o2CTH4ctstm8TNelqjb51",
     "title": "Sweet Child O' Mine",
     "artist": "Guns N' Roses",
     "album": "Appetite for Destruction",
-    "year": 1987
+    "year": 1987,
+    "genre": "Hard Rock"
   },
   {
     "spotifyId": "4bHsxqR3GMrXTxEPLuK5ue",
     "title": "Don't Stop Believin'",
     "artist": "Journey",
     "album": "Escape",
-    "year": 1981
+    "year": 1981,
+    "genre": "Rock"
   },
   {
     "spotifyId": "0VjIjW4GlUZAMYd2vXMi3b",
     "title": "Blinding Lights",
     "artist": "The Weeknd",
     "album": "After Hours",
-    "year": 2020
+    "year": 2020,
+    "genre": "Synth-Pop"
   },
   {
     "spotifyId": "3BUQFs6aFWh7EFNmI8bfL7",
     "title": "Johnny B. Goode",
     "artist": "Chuck Berry",
     "album": "Berry Is on Top",
-    "year": 1958
+    "year": 1958,
+    "genre": "Rock'n'Roll"
   },
   {
     "spotifyId": "4gphxUgq0JSFv2BCLhNDiE",
     "title": "Jailhouse Rock",
     "artist": "Elvis Presley",
     "album": "Jailhouse Rock",
-    "year": 1957
+    "year": 1957,
+    "genre": "Rock'n'Roll"
   },
   {
     "spotifyId": "5yQ9iMZXGcr5rlO4hoLsP4",
     "title": "What'd I Say, Pt. 1 & 2",
     "artist": "Ray Charles",
     "album": "What'd I Say",
-    "year": 1959
+    "year": 1959,
+    "genre": "R&B / Soul"
   },
   {
     "spotifyId": "7jmHyHMEqm9MJWiMAneF05",
     "title": "Stand by Me",
     "artist": "Ben E. King",
     "album": "Don't Play That Song!",
-    "year": 1961
+    "year": 1961,
+    "genre": "Soul"
   },
   {
     "spotifyId": "0RFKuagqUgR4X8C1QneCCq",
     "title": "A Change Is Gonna Come",
     "artist": "Sam Cooke",
     "album": "Ain't That Good News",
-    "year": 1964
+    "year": 1964,
+    "genre": "Soul"
   },
   {
     "spotifyId": "2G2YzndIA6jeWFPBXhUjh5",
     "title": "Be My Baby",
     "artist": "The Ronettes",
     "album": "Presenting the Fabulous Ronettes Featuring Veronica",
-    "year": 1963
+    "year": 1963,
+    "genre": "Pop"
   },
   {
     "spotifyId": "48i055G1OT5KxGGftwFxWy",
     "title": "Oh, Pretty Woman",
     "artist": "Roy Orbison",
     "album": "Oh, Pretty Woman",
-    "year": 1964
+    "year": 1964,
+    "genre": "Rock'n'Roll"
   },
   {
     "spotifyId": "3zBhihYUHBmGd2bcQIobrF",
     "title": "(Sittin' On) The Dock of the Bay",
     "artist": "Otis Redding",
     "album": "The Dock of the Bay",
-    "year": 1968
+    "year": 1968,
+    "genre": "Soul"
   },
   {
     "spotifyId": "5t9KYe0Fhd5cW6UYT4qP8f",
     "title": "Good Vibrations",
     "artist": "The Beach Boys",
     "album": "Smiley Smile",
-    "year": 1966
+    "year": 1966,
+    "genre": "Psychedelic Pop"
   },
   {
     "spotifyId": "0wJoRiX5K5BxlqZTolB2LD",
     "title": "Purple Haze",
     "artist": "Jimi Hendrix",
     "album": "Are You Experienced",
-    "year": 1967
+    "year": 1967,
+    "genre": "Psychedelic Rock"
   },
   {
     "spotifyId": "5uvosCdMlFdTXhoazkTI5R",
     "title": "Light My Fire",
     "artist": "The Doors",
     "album": "The Doors",
-    "year": 1967
+    "year": 1967,
+    "genre": "Psychedelic Rock"
   },
   {
     "spotifyId": "5y788ya4NvwhBznoDIcXwK",
     "title": "The Sound of Silence",
     "artist": "Simon & Garfunkel",
     "album": "Wednesday Morning, 3 A.M.",
-    "year": 1964
+    "year": 1964,
+    "genre": "Folk Rock"
   },
   {
     "spotifyId": "5e6x5YRnMJIKvYpZxLqdpH",
     "title": "Fortunate Son",
     "artist": "Creedence Clearwater Revival",
     "album": "Willy and the Poor Boys",
-    "year": 1969
+    "year": 1969,
+    "genre": "Southern Rock"
   },
   {
     "spotifyId": "6RrXd9Hph4hYR4bf3dbM6H",
     "title": "My Girl",
     "artist": "The Temptations",
     "album": "The Temptations Sing Smokey",
-    "year": 1964
+    "year": 1964,
+    "genre": "Soul"
   },
   {
     "spotifyId": "6YffUZJ2R06kyxyK6onezL",
     "title": "Ring of Fire",
     "artist": "Johnny Cash",
     "album": "Ring of Fire: The Best of Johnny Cash",
-    "year": 1963
+    "year": 1963,
+    "genre": "Country"
   },
   {
     "spotifyId": "7hQJA50XrCWABAu5v6QZ4i",
     "title": "Don't Stop Me Now",
     "artist": "Queen",
     "album": "Jazz",
-    "year": 1978
+    "year": 1978,
+    "genre": "Rock"
   },
   {
     "spotifyId": "0ofHAoxe9vBkTCp2UQIavz",
     "title": "Dreams",
     "artist": "Fleetwood Mac",
     "album": "Rumours",
-    "year": 1977
+    "year": 1977,
+    "genre": "Soft Rock"
   },
   {
     "spotifyId": "7Jh1bpe76CNTCgdgAdBw4Z",
     "title": "\"Heroes\"",
     "artist": "David Bowie",
     "album": "\"Heroes\"",
-    "year": 1977
+    "year": 1977,
+    "genre": "Art Rock"
   },
   {
     "spotifyId": "1h2xVEoJORqrg71HocgqXd",
     "title": "Superstition",
     "artist": "Stevie Wonder",
     "album": "Talking Book",
-    "year": 1972
+    "year": 1972,
+    "genre": "Funk / Soul"
   },
   {
     "spotifyId": "3l9u6a1jn2naA3xYyT0WGe",
     "title": "Wish You Were Here",
     "artist": "Pink Floyd",
     "album": "Wish You Were Here",
-    "year": 1975
+    "year": 1975,
+    "genre": "Progressive Rock"
   },
   {
     "spotifyId": "4UDmDIqJIbrW0hMBQMFOsM",
     "title": "Stayin' Alive",
     "artist": "Bee Gees",
     "album": "Saturday Night Fever",
-    "year": 1977
+    "year": 1977,
+    "genre": "Disco"
   },
   {
     "spotifyId": "3gdewACMIVMEWVbyb8O9sY",
     "title": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
     "artist": "Elton John",
     "album": "Honky Château",
-    "year": 1972
+    "year": 1972,
+    "genre": "Soft Rock"
   },
   {
     "spotifyId": "4CJVkjo5WpmUAKp3R44LNb",
     "title": "Sweet Home Alabama",
     "artist": "Lynyrd Skynyrd",
     "album": "Second Helping",
-    "year": 1974
+    "year": 1974,
+    "genre": "Southern Rock"
   },
   {
     "spotifyId": "5SAUIWdZ04OxYfJFDchC7S",
     "title": "Smoke on the Water",
     "artist": "Deep Purple",
     "album": "Machine Head",
-    "year": 1972
+    "year": 1972,
+    "genre": "Hard Rock"
   },
   {
     "spotifyId": "1Y373MqadDRtclJNdnUXVc",
     "title": "Paranoid",
     "artist": "Black Sabbath",
     "album": "Paranoid",
-    "year": 1970
+    "year": 1970,
+    "genre": "Heavy Metal"
   },
   {
     "spotifyId": "6hTcuIQa0sxrrByu9wTD7s",
     "title": "Born to Run",
     "artist": "Bruce Springsteen",
     "album": "Born to Run",
-    "year": 1975
+    "year": 1975,
+    "genre": "Rock"
   },
   {
     "spotifyId": "3P2SuYpBfOZT2pnkULjiKX",
     "title": "No Woman, No Cry (Live)",
     "artist": "Bob Marley & The Wailers",
     "album": "Live!",
-    "year": 1975
+    "year": 1975,
+    "genre": "Reggae"
   },
   {
     "spotifyId": "2grjqo0Frpf2okIBiifQKs",
     "title": "September",
     "artist": "Earth, Wind & Fire",
     "album": "The Best of Earth, Wind & Fire, Vol. 1",
-    "year": 1978
+    "year": 1978,
+    "genre": "Disco / Funk"
   },
   {
     "spotifyId": "1k1Bqnv2R0uJXQN4u6LKYt",
     "title": "Ain't No Sunshine",
     "artist": "Bill Withers",
     "album": "Just as I Am",
-    "year": 1971
+    "year": 1971,
+    "genre": "Soul"
   },
   {
     "spotifyId": "7rIovIsXE6kMn629b7kDig",
     "title": "I Will Survive",
     "artist": "Gloria Gaynor",
     "album": "Love Tracks",
-    "year": 1978
+    "year": 1978,
+    "genre": "Disco"
   },
   {
     "spotifyId": "5jzma6gCzYtKB1DbEwFZKH",
     "title": "London Calling",
     "artist": "The Clash",
     "album": "London Calling",
-    "year": 1979
+    "year": 1979,
+    "genre": "Punk Rock"
   },
   {
     "spotifyId": "37Tmv4NnfQeb0ZgUC4fOJj",
     "title": "Sultans of Swing",
     "artist": "Dire Straits",
     "album": "Dire Straits",
-    "year": 1978
+    "year": 1978,
+    "genre": "Rock"
   },
   {
     "spotifyId": "1OOtq8tRnDM8kG2gqUPjAj",
     "title": "Beat It",
     "artist": "Michael Jackson",
     "album": "Thriller",
-    "year": 1982
+    "year": 1982,
+    "genre": "Pop Rock"
   },
   {
     "spotifyId": "2v7ywbUzCgcVohHaKUcacV",
     "title": "Like a Prayer",
     "artist": "Madonna",
     "album": "Like a Prayer",
-    "year": 1989
+    "year": 1989,
+    "genre": "Pop"
   },
   {
     "spotifyId": "08mG3Y1vljYA6bvDt4Wqkj",
     "title": "Back in Black",
     "artist": "AC/DC",
     "album": "Back in Black",
-    "year": 1980
+    "year": 1980,
+    "genre": "Hard Rock"
   },
   {
     "spotifyId": "2374M0fQpWi3dLnB54qaLX",
     "title": "Africa",
     "artist": "Toto",
     "album": "Toto IV",
-    "year": 1982
+    "year": 1982,
+    "genre": "Soft Rock"
   },
   {
     "spotifyId": "2sXp9Qmvc7mRaDBjBgcGGi",
     "title": "Every Breath You Take",
     "artist": "The Police",
     "album": "Synchronicity",
-    "year": 1983
+    "year": 1983,
+    "genre": "Pop Rock"
   },
   {
     "spotifyId": "2WfaOiMkCvy7F5fcp2zZ8L",
     "title": "Take on Me",
     "artist": "a-ha",
     "album": "Hunting High and Low",
-    "year": 1985
+    "year": 1985,
+    "genre": "Synth-Pop"
   },
   {
     "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
     "title": "Everybody Wants to Rule the World",
     "artist": "Tears for Fears",
     "album": "Songs from the Big Chair",
-    "year": 1985
+    "year": 1985,
+    "genre": "Synth-Pop"
   },
   {
     "spotifyId": "6ADSaE87h8Y3lccZlBJdXH",
     "title": "With or Without You",
     "artist": "U2",
     "album": "The Joshua Tree",
-    "year": 1987
+    "year": 1987,
+    "genre": "Rock"
   },
   {
     "spotifyId": "37ZJ0p5Jm13JPevGcx4SkF",
     "title": "Livin' on a Prayer",
     "artist": "Bon Jovi",
     "album": "Slippery When Wet",
-    "year": 1986
+    "year": 1986,
+    "genre": "Hard Rock"
   },
   {
     "spotifyId": "18AXbzPzBS8Y3AkgSxzJPb",
     "title": "In the Air Tonight",
     "artist": "Phil Collins",
     "album": "Face Value",
-    "year": 1981
+    "year": 1981,
+    "genre": "Soft Rock"
   },
   {
     "spotifyId": "4y1LsJpmMti1PfRQV9AWWe",
     "title": "Girls Just Want to Have Fun",
     "artist": "Cyndi Lauper",
     "album": "She's So Unusual",
-    "year": 1983
+    "year": 1983,
+    "genre": "Pop"
   },
   {
     "spotifyId": "2tUBqZG2AbRi7Q0BIrVrEj",
     "title": "I Wanna Dance with Somebody (Who Loves Me)",
     "artist": "Whitney Houston",
     "album": "Whitney",
-    "year": 1987
+    "year": 1987,
+    "genre": "Dance-Pop"
   },
   {
     "spotifyId": "29d0nY7TzCoi22XBqDQkiP",
     "title": "Running Up That Hill (A Deal with God)",
     "artist": "Kate Bush",
     "album": "Hounds of Love",
-    "year": 1985
+    "year": 1985,
+    "genre": "Art Pop"
   },
   {
     "spotifyId": "2KH16WveTQWT6KOG9Rg6e2",
     "title": "Eye of the Tiger",
     "artist": "Survivor",
     "album": "Eye of the Tiger",
-    "year": 1982
+    "year": 1982,
+    "genre": "Hard Rock"
   },
   {
     "spotifyId": "4cOdK2wGLETKBW3PvgPWqT",
     "title": "Never Gonna Give You Up",
     "artist": "Rick Astley",
     "album": "Whenever You Need Somebody",
-    "year": 1987
+    "year": 1987,
+    "genre": "Dance-Pop"
   },
   {
     "spotifyId": "1TfqLAPs4K3s2rJMoCokcS",
     "title": "Sweet Dreams (Are Made of This)",
     "artist": "Eurythmics",
     "album": "Sweet Dreams (Are Made of This)",
-    "year": 1983
+    "year": 1983,
+    "genre": "Synth-Pop"
   },
   {
     "spotifyId": "6WK9dVrRABMkUXFLNlgWFh",
     "title": "Enjoy the Silence",
     "artist": "Depeche Mode",
     "album": "Violator",
-    "year": 1990
+    "year": 1990,
+    "genre": "Synth-Pop"
   },
   {
     "spotifyId": "5BIMPccDwShpXq784RJlJp",
     "title": "Enter Sandman",
     "artist": "Metallica",
     "album": "Metallica",
-    "year": 1991
+    "year": 1991,
+    "genre": "Heavy Metal"
   },
   {
     "spotifyId": "4d9RTWdrFLVAGhdzvqxkwn",
     "title": "Losing My Religion",
     "artist": "R.E.M.",
     "album": "Out of Time",
-    "year": 1991
+    "year": 1991,
+    "genre": "Alternative Rock"
   },
   {
     "spotifyId": "4eHbdreAnSOrDDsFfc4Fpm",
     "title": "I Will Always Love You",
     "artist": "Whitney Houston",
     "album": "The Bodyguard",
-    "year": 1992
+    "year": 1992,
+    "genre": "Pop / Soul"
   },
   {
     "spotifyId": "70LcF31zb1H0PyJoS1Sx1r",
     "title": "Creep",
     "artist": "Radiohead",
     "album": "Pablo Honey",
-    "year": 1992
+    "year": 1992,
+    "genre": "Alternative Rock"
   },
   {
     "spotifyId": "1qPbGZqppFwLwcBC1JQ6Vr",
     "title": "Wonderwall",
     "artist": "Oasis",
     "album": "(What's the Story) Morning Glory?",
-    "year": 1995
+    "year": 1995,
+    "genre": "Britpop"
   },
   {
     "spotifyId": "3P2CQ3VbkRJilviCuOGZl4",
     "title": "Gangsta's Paradise",
     "artist": "Coolio feat. L.V.",
     "album": "Gangsta's Paradise",
-    "year": 1995
+    "year": 1995,
+    "genre": "Hip-Hop"
   },
   {
     "spotifyId": "3djNBlI7xOggg7pnsOLaNm",
     "title": "California Love",
     "artist": "2Pac feat. Dr. Dre",
     "album": "All Eyez on Me",
-    "year": 1995
+    "year": 1995,
+    "genre": "Hip-Hop"
   },
   {
     "spotifyId": "5ByAIlEEnxYdvpnezg7HTX",
     "title": "Juicy",
     "artist": "The Notorious B.I.G.",
     "album": "Ready to Die",
-    "year": 1994
+    "year": 1994,
+    "genre": "Hip-Hop"
   },
   {
     "spotifyId": "503OTo2dSqe7qk76rgsbep",
     "title": "Still D.R.E.",
     "artist": "Dr. Dre feat. Snoop Dogg",
     "album": "2001",
-    "year": 1999
+    "year": 1999,
+    "genre": "Hip-Hop"
   },
   {
     "spotifyId": "3d9DChrdc6BOeFsbrZ3Is0",
     "title": "Under the Bridge",
     "artist": "Red Hot Chili Peppers",
     "album": "Blood Sugar Sex Magik",
-    "year": 1991
+    "year": 1991,
+    "genre": "Alternative Rock"
   },
   {
     "spotifyId": "3MjUtNVVq3C8Fn0MP3zhXa",
     "title": "...Baby One More Time",
     "artist": "Britney Spears",
     "album": "...Baby One More Time",
-    "year": 1998
+    "year": 1998,
+    "genre": "Pop"
   },
   {
     "spotifyId": "47BBI51FKFwOMlIiX6m8ya",
     "title": "I Want It That Way",
     "artist": "Backstreet Boys",
     "album": "Millennium",
-    "year": 1999
+    "year": 1999,
+    "genre": "Pop"
   },
   {
     "spotifyId": "1Je1IMUlBXcx1Fz0WE7oPT",
     "title": "Wannabe",
     "artist": "Spice Girls",
     "album": "Spice",
-    "year": 1996
+    "year": 1996,
+    "genre": "Dance-Pop"
   },
   {
     "spotifyId": "33LC84JgLvK2KuW43MfaNq",
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "album": "Let's Talk About Love",
-    "year": 1997
+    "year": 1997,
+    "genre": "Pop"
   },
   {
     "spotifyId": "57iDDD9N9tTWe75x6qhStw",
     "title": "Bitter Sweet Symphony",
     "artist": "The Verve",
     "album": "Urban Hymns",
-    "year": 1997
+    "year": 1997,
+    "genre": "Britpop"
   },
   {
     "spotifyId": "1v7L65Lzy0j0vdpRjJewt1",
     "title": "Lose Yourself",
     "artist": "Eminem",
     "album": "8 Mile",
-    "year": 2002
+    "year": 2002,
+    "genre": "Hip-Hop"
   },
   {
     "spotifyId": "2PpruBYCo4H7WOBJ7Q2EwM",
     "title": "Hey Ya!",
     "artist": "Outkast",
     "album": "Speakerboxxx/The Love Below",
-    "year": 2003
+    "year": 2003,
+    "genre": "Funk / Hip-Hop"
   },
   {
     "spotifyId": "3dPQuX8Gs42Y7b454ybpMR",
     "title": "Seven Nation Army",
     "artist": "The White Stripes",
     "album": "Elephant",
-    "year": 2003
+    "year": 2003,
+    "genre": "Garage Rock"
   },
   {
     "spotifyId": "5IVuqXILoxVWvWEPm82Jxr",
     "title": "Crazy in Love",
     "artist": "Beyoncé feat. JAY-Z",
     "album": "Dangerously in Love",
-    "year": 2003
+    "year": 2003,
+    "genre": "R&B / Pop"
   },
   {
     "spotifyId": "003vvx7Niy0yvhvHt4a68B",
     "title": "Mr. Brightside",
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "year": 2003
+    "year": 2003,
+    "genre": "Indie Rock"
   },
   {
     "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
     "title": "In the End",
     "artist": "Linkin Park",
     "album": "Hybrid Theory",
-    "year": 2000
+    "year": 2000,
+    "genre": "Nu Metal"
   },
   {
     "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
     "title": "Viva la Vida",
     "artist": "Coldplay",
     "album": "Viva la Vida or Death and All His Friends",
-    "year": 2008
+    "year": 2008,
+    "genre": "Pop Rock"
   },
   {
     "spotifyId": "3N4DI1vuTSX1tz7fa2NQZw",
     "title": "Rehab",
     "artist": "Amy Winehouse",
     "album": "Back to Black",
-    "year": 2006
+    "year": 2006,
+    "genre": "Soul"
   },
   {
     "spotifyId": "49FYlytm3dAAraYgpoJZux",
     "title": "Umbrella",
     "artist": "Rihanna feat. JAY-Z",
     "album": "Good Girl Gone Bad",
-    "year": 2007
+    "year": 2007,
+    "genre": "R&B / Pop"
   },
   {
     "spotifyId": "1QV6tiMFM6fSOKOGLMHYYg",
     "title": "Poker Face",
     "artist": "Lady Gaga",
     "album": "The Fame",
-    "year": 2008
+    "year": 2008,
+    "genre": "Electropop"
   },
   {
     "spotifyId": "1c8gk2PeTE04A1pIDH9YMk",
     "title": "Rolling in the Deep",
     "artist": "Adele",
     "album": "21",
-    "year": 2010
+    "year": 2010,
+    "genre": "Soul / Pop"
   },
   {
     "spotifyId": "69kOkLUCkxIZYexIgSG8rq",
     "title": "Get Lucky",
     "artist": "Daft Punk feat. Pharrell Williams & Nile Rodgers",
     "album": "Random Access Memories",
-    "year": 2013
+    "year": 2013,
+    "genre": "Disco / Funk"
   },
   {
     "spotifyId": "32OlwWuMpZ6b0aN2RZOeMS",
     "title": "Uptown Funk",
     "artist": "Mark Ronson feat. Bruno Mars",
     "album": "Uptown Special",
-    "year": 2014
+    "year": 2014,
+    "genre": "Funk / Pop"
   },
   {
     "spotifyId": "7qiZfU4dY1lWllzX7mPBI3",
     "title": "Shape of You",
     "artist": "Ed Sheeran",
     "album": "÷",
-    "year": 2017
+    "year": 2017,
+    "genre": "Pop"
   },
   {
     "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
     "title": "Wake Me Up",
     "artist": "Avicii",
     "album": "True",
-    "year": 2013
+    "year": 2013,
+    "genre": "Electronic / Dance"
   },
   {
     "spotifyId": "2Fxmhks0bxGSBdJ92vM42m",
     "title": "bad guy",
     "artist": "Billie Eilish",
     "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-    "year": 2019
+    "year": 2019,
+    "genre": "Electropop"
   },
   {
     "spotifyId": "1u8c2t2Cy7UBoG4ArRcF5g",
     "title": "Blank Space",
     "artist": "Taylor Swift",
     "album": "1989",
-    "year": 2014
+    "year": 2014,
+    "genre": "Synth-Pop"
   },
   {
     "spotifyId": "3VwLD5o1r0YBLkjUfgSEYg",
     "title": "Das Model",
     "artist": "Kraftwerk",
     "album": "Die Mensch-Maschine",
-    "year": 1978
+    "year": 1978,
+    "genre": "Electronic / Synth-Pop"
   },
   {
     "spotifyId": "12Gf7Ffl7pxj7mQF1ehRBy",
     "title": "Verdamp lang her",
     "artist": "BAP",
     "album": "Für usszeschnigge!",
-    "year": 1981
+    "year": 1981,
+    "genre": "Deutschrock"
   },
   {
     "spotifyId": "6u0F8YTqdUic3gMpgTcNDX",
     "title": "Major Tom (Völlig losgelöst)",
     "artist": "Peter Schilling",
     "album": "Fehler im System",
-    "year": 1982
+    "year": 1982,
+    "genre": "Neue Deutsche Welle"
   },
   {
     "spotifyId": "3NM2GsEUdDq2QYqXOMXZZW",
     "title": "99 Luftballons",
     "artist": "Nena",
     "album": "Nena",
-    "year": 1983
+    "year": 1983,
+    "genre": "Neue Deutsche Welle"
   },
   {
     "spotifyId": "2PfEAFaaLabTXfmlV58LIj",
     "title": "Männer",
     "artist": "Herbert Grönemeyer",
     "album": "4630 Bochum",
-    "year": 1984
+    "year": 1984,
+    "genre": "Deutschrock"
   },
   {
     "spotifyId": "0DfG1ltJnZyq4Tx3ZLL7ZU",
     "title": "Rock Me Amadeus",
     "artist": "Falco",
     "album": "Falco 3",
-    "year": 1985
+    "year": 1985,
+    "genre": "Pop / NDW"
   },
   {
     "spotifyId": "5kNSEFVwjKiWR2MWEZNPIE",
     "title": "Freiheit",
     "artist": "Marius Müller-Westernhagen",
     "album": "Westernhagen",
-    "year": 1987
+    "year": 1987,
+    "genre": "Deutschrock"
   },
   {
     "spotifyId": "0LFq9xNDSgspBQlmaFfpat",
     "title": "Die Da!?!",
     "artist": "Die Fantastischen Vier",
     "album": "4 gewinnt",
-    "year": 1992
+    "year": 1992,
+    "genre": "Deutschrap"
   },
   {
     "spotifyId": "4P4PHxZQ1FcwQKKnfEPsAZ",
     "title": "Schrei nach Liebe",
     "artist": "Die Ärzte",
     "album": "Die Bestie in Menschengestalt",
-    "year": 1993
+    "year": 1993,
+    "genre": "Punk Rock"
   },
   {
     "spotifyId": "0llxnKwB2eKrVEUxBWuHgR",
     "title": "Jein",
     "artist": "Fettes Brot",
     "album": "Außen Top Hits, innen Geschmack",
-    "year": 1996
+    "year": 1996,
+    "genre": "Deutschrap"
   },
   {
     "spotifyId": "6XcoiOYiNbIxzpt8WRxq8Z",
     "title": "Du hast",
     "artist": "Rammstein",
     "album": "Sehnsucht",
-    "year": 1997
+    "year": 1997,
+    "genre": "Neue Deutsche Härte"
   },
   {
     "spotifyId": "5QRkWkMabF6HJmQQm2HBVX",
     "title": "Ein Kompliment",
     "artist": "Sportfreunde Stiller",
     "album": "Die gute Seite",
-    "year": 2002
+    "year": 2002,
+    "genre": "Indie Rock"
   },
   {
     "spotifyId": "58zHoX9U5VlSXLUUmWTfe2",
     "title": "Denkmal",
     "artist": "Wir sind Helden",
     "album": "Die Reklamation",
-    "year": 2003
+    "year": 2003,
+    "genre": "Indie Pop"
   },
   {
     "spotifyId": "4i4RFXGR8LjhBjgmIsczzo",
     "title": "Ding",
     "artist": "Seeed",
     "album": "Next!",
-    "year": 2005
+    "year": 2005,
+    "genre": "Dancehall / Reggae"
   },
   {
     "spotifyId": "7A4KdLy1DXOOC5fhIdDuHz",
     "title": "Haus am See",
     "artist": "Peter Fox",
     "album": "Stadtaffe",
-    "year": 2008
+    "year": 2008,
+    "genre": "Hip-Hop / Dancehall"
   },
   {
     "spotifyId": "2lYsCjTvXIHOqT8xSbK2jq",
     "title": "Tage wie diese",
     "artist": "Die Toten Hosen",
     "album": "Ballast der Republik",
-    "year": 2012
+    "year": 2012,
+    "genre": "Deutschrock"
   },
   {
     "spotifyId": "3gmxpKRiDdCe6ub96LvKx5",
     "title": "Leider geil",
     "artist": "Deichkind",
     "album": "Befehl von ganz unten",
-    "year": 2012
+    "year": 2012,
+    "genre": "Electropop / Hip-Hop"
   },
   {
     "spotifyId": "0c6EzAElZrC62yj80FLmpP",
     "title": "Lila Wolken",
     "artist": "Marteria, Yasha & Miss Platnum",
     "album": "Lila Wolken",
-    "year": 2012
+    "year": 2012,
+    "genre": "Deutschrap / Pop"
   },
   {
     "spotifyId": "4poYvYKOKtpAOoXSIYeU0A",
     "title": "Pocahontas",
     "artist": "AnnenMayKantereit",
     "album": "Alles nix Konkretes",
-    "year": 2016
+    "year": 2016,
+    "genre": "Indie Rock"
   },
   {
     "spotifyId": "6hw1Sy9wZ8UCxYGdpKrU6M",
     "title": "Roller",
     "artist": "Apache 207",
     "album": "Platte",
-    "year": 2019
+    "year": 2019,
+    "genre": "Deutschrap / Pop"
   }
 ]
