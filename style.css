@@ -276,7 +276,7 @@ body {
 }
 
 .song-meta__label {
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -285,13 +285,13 @@ body {
 
 .song-meta__value {
   margin: 0;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 500;
   color: var(--text-color);
 }
 
 .song-meta__value--title {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: 700;
 }
 

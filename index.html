@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="de">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Musik-Ratespiel</title>
+  <title>Was hör' ich da?</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
   <link rel="stylesheet" href="./style.css" />
 </head>
+
 <body>
   <main class="app">
     <header class="app-header">
-      <h1 class="app-title">Musik-Ratespiel</h1>
+      <h1 class="app-title">Was hör' ich da?</h1>
     </header>
 
     <div id="error-banner" class="error-banner hidden" role="alert"></div>
@@ -24,13 +26,8 @@
       <form id="auth-form" class="auth-form" novalidate>
         <div id="client-id-group" class="form-group">
           <label for="client-id-input" class="form-label">Spotify Client ID</label>
-          <input
-            id="client-id-input"
-            class="form-input"
-            type="text"
-            placeholder="z. B. 1a2b3c4d5e6f..."
-            autocomplete="off"
-          />
+          <input id="client-id-input" class="form-input" type="text" placeholder="z. B. 1a2b3c4d5e6f..."
+            autocomplete="off" />
           <p class="form-help">
             Redirect URI für das Spotify Developer Dashboard:<br />
             <code id="redirect-uri-display"></code>
@@ -75,7 +72,8 @@
   <footer id="status-bar" class="status-bar hidden">
     <span id="status-text" class="status-bar__item"></span>
     <span id="counter-text" class="status-bar__item"></span>
-    <button id="pause-btn" class="pause-btn" type="button" aria-pressed="false" aria-label="Wiedergabe pausieren" disabled>
+    <button id="pause-btn" class="pause-btn" type="button" aria-pressed="false" aria-label="Wiedergabe pausieren"
+      disabled>
       <svg id="pause-icon" class="pause-btn__icon" viewBox="0 0 12 12" width="11" height="11" aria-hidden="true">
         <rect x="2" y="1.5" width="2.8" height="9" rx="0.6" fill="currentColor" />
         <rect x="7.2" y="1.5" width="2.8" height="9" rx="0.6" fill="currentColor" />
@@ -90,4 +88,5 @@
 
   <script type="module" src="./app.js"></script>
 </body>
+
 </html>
