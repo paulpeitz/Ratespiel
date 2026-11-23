@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Musik-Ratespiel</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="app-header">
+      <h1 class="app-title">Musik-Ratespiel</h1>
+    </header>
+
+    <div id="error-banner" class="error-banner hidden" role="alert"></div>
+
+    <!-- Einmalige Spotify-Anmeldung -->
+    <section id="auth-section" class="auth-section hidden" aria-label="Spotify-Anmeldung">
+      <p class="auth-hint">
+        Melde dich einmalig mit deinem <strong>Spotify-Premium-Konto</strong> an, um das Spiel zu starten.
+      </p>
+
+      <form id="auth-form" class="auth-form" novalidate>
+        <div id="client-id-group" class="form-group">
+          <label for="client-id-input" class="form-label">Spotify Client ID</label>
+          <input
+            id="client-id-input"
+            class="form-input"
+            type="text"
+            placeholder="z. B. 1a2b3c4d5e6f..."
+            autocomplete="off"
+          />
+          <p class="form-help">
+            Redirect URI für das Spotify Developer Dashboard:<br />
+            <code id="redirect-uri-display"></code>
+          </p>
+        </div>
+
+        <button id="login-btn" class="action-btn action-btn--start" type="submit">
+          Mit Spotify anmelden
+        </button>
+      </form>
+    </section>
+
+    <!-- Eigentlicher Spielbereich -->
+    <section id="game-section" class="game-section hidden" aria-label="Ratespiel">
+      <div id="reveal-card" class="reveal-card hidden" aria-live="polite">
+        <dl class="song-meta">
+          <div class="song-meta__row">
+            <dt class="song-meta__label">Titel</dt>
+            <dd id="song-title" class="song-meta__value song-meta__value--title"></dd>
+          </div>
+          <div class="song-meta__row">
+            <dt class="song-meta__label">Artist</dt>
+            <dd id="song-artist" class="song-meta__value"></dd>
+          </div>
+          <div class="song-meta__row">
+            <dt class="song-meta__label">Album</dt>
+            <dd id="song-album" class="song-meta__value"></dd>
+          </div>
+          <div class="song-meta__row">
+            <dt class="song-meta__label">Jahr</dt>
+            <dd id="song-year" class="song-meta__value"></dd>
+          </div>
+        </dl>
+      </div>
+
+      <button id="action-btn" class="action-btn action-btn--start" type="button" disabled>
+        Start
+      </button>
+    </section>
+  </main>
+
+  <footer id="status-bar" class="status-bar hidden">
+    <span id="status-text" class="status-bar__item"></span>
+    <span id="counter-text" class="status-bar__item"></span>
+    <button id="pause-btn" class="pause-btn" type="button" aria-pressed="false" aria-label="Wiedergabe pausieren" disabled>
+      <svg id="pause-icon" class="pause-btn__icon" viewBox="0 0 12 12" width="11" height="11" aria-hidden="true">
+        <rect x="2" y="1.5" width="2.8" height="9" rx="0.6" fill="currentColor" />
+        <rect x="7.2" y="1.5" width="2.8" height="9" rx="0.6" fill="currentColor" />
+      </svg>
+      <svg id="play-icon" class="pause-btn__icon hidden" viewBox="0 0 12 12" width="11" height="11" aria-hidden="true">
+        <path d="M2.5 1.75L10.25 6L2.5 10.25V1.75Z" fill="currentColor" />
+      </svg>
+      <span id="pause-btn-label">Pause</span>
+    </button>
+    <button id="logout-btn" class="link-btn" type="button">Abmelden</button>
+  </footer>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
